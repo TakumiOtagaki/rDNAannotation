@@ -1,0 +1,8 @@
+KY962518.1      ncbi    misc_RNA        1   3657    .    +   .    transcript_id "external transcribed spacer";
+KY962518.1      ncbi    rRNA            3658    5526    .    +   .     transcript_id "18S ribosomal RNA";
+KY962518.1      ncbi    misc_RNA        5527    6596    .    +   .     gene_id "ITS-1"; transcript_id "internal transcribed spacer 1";
+KY962518.1      ncbi    repeat_region   6081    6189    .    +   .     gene_id "similar to MER45C";
+KY962518.1      ncbi    rRNA            6597    6753    .    +   .     transcript_id "5.8S ribosomal RNA";
+KY962518.1      ncbi    misc_RNA        6754    7920    .    +   .     gene_id"ITS-2"; transcript_id "internal transcribed spacer 2";
+KY962518.1      ncbi    rRNA            7921    12971   .    +   .     transcript_id "28S ribosomal RNA";
+KY962518.1      ncbi    misc_RNA        12972   13332   .    +   .      gene_id "3'ETS"; transcript_id "external transcribed spacer";
